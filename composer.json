@@ -1,0 +1,19 @@
+{
+    "name": "max/cafe-serenata",
+    "description": "Projeto PHP & HTML",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Max\\CafeSerenata\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MaxiiXx23",
+            "email": "max.232017@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    }
+}
